@@ -343,7 +343,7 @@ Deno development is supported in a number of
 team.
 [Install the extension](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
 and enable it in your VS Code workspace by choosing the
-`Deno: Initialize Workspace Configuration` option in the
+`Deno: Enable` option in the
 [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette).
 
 ![command palette setup](../images/command_palette.png)
